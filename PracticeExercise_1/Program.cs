@@ -11,15 +11,36 @@ using System.Threading.Tasks;
  * Description: The purpose of this program is to practice for quiz 1, and is should  
  * not be graded for marks, as this is practice only =)
  * 
- * Version 0.1 - Intial Version
+ * Version 0.0.2 - Created reference to driver class, from UnitTest
  */
-namespace PracticeExercise_1
+
+namespace PracticeExercise_1 //container that contains are program
 {
-    class Program
+    /**
+ *  Main driver class for Practice
+ *  @class Program
+ */
+   class Program
     {
+
+        /**
+             *  
+             * @condtructor Main
+             * @param {string[]} Args
+             */
+
         static void Main(string[] args)
         {
             
+            //Arrange
+            // Arrange: Our variables and objects
+
+            //Act
+            //connect with the method will be testing
+
+
+            //Assert
+            //Actually testing the method
         }
     }
 }
